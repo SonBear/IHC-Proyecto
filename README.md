@@ -18,3 +18,4 @@ Repositorio para el proyecto de la asignatura Interacción Humano Computadora.
 + [Plan de trabajo](https://docs.google.com/spreadsheets/d/1icGlSrMhyCGeiTd2V3xEcQ6_Eoo8wRsyrQWbMVNo_MU/edit?usp=sharing)
 + [Plan de investigación](https://docs.google.com/document/d/1_uhYpQUqXNublMaqK4S0Bp4EjoU6UH89AMNVJeku4Lo/edit?usp=sharing)
 + [Contribución de equipo](https://docs.google.com/spreadsheets/d/11fWpDlCfpDJLEv2Nk0xhmxiUNdmhnKilR7yT2E8bcwU/edit?usp=sharing)
++ [Especificación de requerimientos](https://docs.google.com/document/d/1jAOXPjH9IfhLvw6-WR7Afiw_LtxF_tMS5189SemFLYA/edit?usp=sharing)
