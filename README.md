@@ -14,6 +14,7 @@ Repositorio para el proyecto de la asignatura Interacción Humano Computadora.
 + [Presentación primera entrega](https://docs.google.com/presentation/d/1uMy0kCAG8fykGgYm25KeRCWaYqL9XQjeuaKmLw2UW1I/edit?usp=sharing)
 
 # Documentación
+## Primera entrega
 + [Plan de proyecto](https://docs.google.com/document/d/1nDcp4RktocdgXuYr6IZOMlVL1TfB6n6D1h4pN4NtLgQ/edit?usp=sharing)
 + [Plan de trabajo](https://docs.google.com/spreadsheets/d/1icGlSrMhyCGeiTd2V3xEcQ6_Eoo8wRsyrQWbMVNo_MU/edit?usp=sharing)
 + [Plan de investigación](https://docs.google.com/document/d/1_uhYpQUqXNublMaqK4S0Bp4EjoU6UH89AMNVJeku4Lo/edit?usp=sharing)
