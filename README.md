@@ -9,7 +9,9 @@ Repositorio para el proyecto de la asignatura Interacción Humano Computadora.
 * [Cauich Davalos Victor Enrique](https://github.com/VictorWars)
 * [Chable Colli Emmanuel Isai](https://github.com/SonBear)
 
-
+# Presentaciones
++ [Presentación Preliminar](https://docs.google.com/presentation/d/1DiIRE0B2OfE_adCsDtm2PXGUG9zvyk-WrE0qQyGFm-k/edit?usp=sharing)
++ [Presentación primera entrega](https://docs.google.com/presentation/d/1uMy0kCAG8fykGgYm25KeRCWaYqL9XQjeuaKmLw2UW1I/edit?usp=sharing)
 
 # Documentación
 + [Plan de proyecto](https://docs.google.com/document/d/1nDcp4RktocdgXuYr6IZOMlVL1TfB6n6D1h4pN4NtLgQ/edit?usp=sharing)
