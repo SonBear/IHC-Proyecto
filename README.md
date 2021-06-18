@@ -14,9 +14,18 @@ Repositorio para el proyecto de la asignatura Interacción Humano Computadora.
 + [Presentación primera entrega](https://docs.google.com/presentation/d/1uMy0kCAG8fykGgYm25KeRCWaYqL9XQjeuaKmLw2UW1I/edit?usp=sharing)
 
 # Documentación
++ [Especificación de requerimientos](https://docs.google.com/document/d/1jAOXPjH9IfhLvw6-WR7Afiw_LtxF_tMS5189SemFLYA/edit?usp=sharing)
+
 ## Primera entrega
 + [Plan de proyecto](https://docs.google.com/document/d/1nDcp4RktocdgXuYr6IZOMlVL1TfB6n6D1h4pN4NtLgQ/edit?usp=sharing)
 + [Plan de trabajo](https://docs.google.com/spreadsheets/d/1icGlSrMhyCGeiTd2V3xEcQ6_Eoo8wRsyrQWbMVNo_MU/edit?usp=sharing)
 + [Plan de investigación](https://docs.google.com/document/d/1_uhYpQUqXNublMaqK4S0Bp4EjoU6UH89AMNVJeku4Lo/edit?usp=sharing)
 + [Contribución de equipo](https://docs.google.com/spreadsheets/d/11fWpDlCfpDJLEv2Nk0xhmxiUNdmhnKilR7yT2E8bcwU/edit?usp=sharing)
-+ [Especificación de requerimientos](https://docs.google.com/document/d/1jAOXPjH9IfhLvw6-WR7Afiw_LtxF_tMS5189SemFLYA/edit?usp=sharing)
+
+
+## Segunda entrega
++ [Avance de proyecto](https://docs.google.com/document/d/1XHHt3Y-ObiLGI52w3-TVvZS59GXv21d-C605uODzP2g/edit?usp=sharing)
++ [Resumen de avances](https://docs.google.com/document/d/153rJRnKfHJIRI1U-p3ey1f1mbRHrh8GqCz1j8rrRWE0/edit?usp=sharing)
++ [Desarrollo de prototipos](https://drive.google.com/file/d/1r1mdE3Y2mDkkU9T5sBjA5GwNC6gG5mgI/view?usp=sharing)
++ [Analisis de diseño](https://docs.google.com/document/d/1E8Tktn3QV5x3RybkawXqwG6Mv48alwm2-g1T4969_us/edit?usp=sharing)
++ [Pruebas de usabilidad](https://docs.google.com/document/d/1roe7n0IEhpTYL5DtVF6ykXX1pvXpU82zraldgSD4nks/edit?usp=sharing)
