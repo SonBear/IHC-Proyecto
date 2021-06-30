@@ -17,6 +17,7 @@ Repositorio para el proyecto de la asignatura Interacción Humano Computadora.
 - [Presentación Preliminar](https://docs.google.com/presentation/d/1DiIRE0B2OfE_adCsDtm2PXGUG9zvyk-WrE0qQyGFm-k/edit?usp=sharing)
 - [Presentación primera entrega](https://docs.google.com/presentation/d/1uMy0kCAG8fykGgYm25KeRCWaYqL9XQjeuaKmLw2UW1I/edit?usp=sharing)
 - [Presentación segunda entrega](https://docs.google.com/presentation/d/1piCV3vBUPZJ18yLZ7I8BYY7zUGlr64LVX-JaGla2xMk/edit?usp=sharing)
+- [Presentación final](https://docs.google.com/presentation/d/1kg9akyuPshvVB7ipD79R_4L9BkIA6sLuS1shzVCAxIM/edit?usp=sharing)
 
 # Documentación
 
@@ -39,4 +40,4 @@ Repositorio para el proyecto de la asignatura Interacción Humano Computadora.
 
 ## Entrega final
 
-+[Poster](https://www.figma.com/file/P5ugffxNIpiONS64Oamu1v/Poster-IHC?node-id=0%3A1) +[Articulo](https://docs.google.com/document/d/1WE3Gg6-bYnb5hO7gUsYXr_zLtccdk9Or3Wrxn6_wa5w/edit?usp=sharing) +[Video](https://youtu.be/4JPd_-6u36Q)
+-[Poster](https://www.figma.com/file/P5ugffxNIpiONS64Oamu1v/Poster-IHC?node-id=0%3A1) -[Articulo](https://docs.google.com/document/d/1WE3Gg6-bYnb5hO7gUsYXr_zLtccdk9Or3Wrxn6_wa5w/edit?usp=sharing) -[Video](https://youtu.be/4JPd_-6u36Q)
